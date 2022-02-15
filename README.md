@@ -31,3 +31,11 @@ Practice - http://pythontutor.ru/
 	<li>Условие</li>
 	<li>Цикл Для каждого</li>
 </ul>
+<p> <a href="https://colab.research.google.com/drive/1I845i65UkhTl6nHz7xcpQQ1EUgDtZ8uq?usp=sharing" target="_blank" rel="nofollow">Lesson 3</a> </p>
+<ul>
+	<li>​List / списки</li>
+	<li>Dictionary / словари</li>
+	<li>Set / множества</li>
+	<li>Tuple / кортежи</li>
+	<li>Random</li>
+</ul>
